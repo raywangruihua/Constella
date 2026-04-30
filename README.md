@@ -1,4 +1,4 @@
-# Career Constellation dot AI
+# Constella: Life Planner
 
 ## Problem Statement: The Fertility Window VS Career Acceleration Dilemma
 
